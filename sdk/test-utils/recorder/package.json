@@ -72,7 +72,7 @@
     "@types/fs-extra": "^8.0.0",
     "@types/node": "^18.0.0",
     "@vitest/browser": "^1.4.0",
-    "@vitest/coverage-istanbul": "^1.4.0",
+    "@vitest/coverage-istanbul": "^3.2.4",
     "concurrently": "^8.2.0",
     "cross-env": "7.0.3",
     "eslint": "^8.56.0",
