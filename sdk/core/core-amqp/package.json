@@ -96,7 +96,7 @@
     "@types/debug": "^4.1.12",
     "@types/node": "^18.0.0",
     "@types/ws": "^8.5.10",
-    "@vitest/browser": "^1.6.0",
+    "@vitest/browser": "^2.1.4",
     "@vitest/coverage-istanbul": "^1.6.0",
     "debug": "^4.3.4",
     "eslint": "^8.57.0",
