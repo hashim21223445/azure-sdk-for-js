@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@azure/storage-blob": "^12.10.0",
-    "expo": "~46.0.9",
+    "expo": "~52.0.0",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-native": "0.69.5",
+    "react-native": "0.75.0",
     "react-native-web": "~0.18.7"
   },
   "devDependencies": {
