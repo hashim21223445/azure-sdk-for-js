@@ -6,7 +6,7 @@
     "@azure/identity": "^4.2.1",
     "@azure/keyvault-secrets": "^4.1.0",
     "@types/node": "^18.0.0",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.1",
